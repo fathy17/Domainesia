@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "extra",
+    "harga": 16000,
+    "space": "750 MB",
+    "bandwidth": "Unlimited",
+    "website": 5,
+    "email": "Unlimited",
+    "domain": false,
+    "ssh": false
+  },
+  {
+    "nama": "super",
+    "harga": 32000,
+    "space": "2 GB",
+    "bandwidth": "Unlimited",
+    "website": "Unlimited",
+    "email": "Unlimited",
+    "domain": true,
+    "ssh": true
+  },
+  {
+    "nama": "monster",
+    "harga": 64000,
+    "space": "5 GB",
+    "bandwidth": "Unlimited",
+    "website": "Unlimited",
+    "email": "Unlimited",
+    "domain": true,
+    "ssh": true
+  }
+]
